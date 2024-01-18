@@ -1,1 +1,1 @@
-<a href="https://linktr.ee/pss.tech"> Click here to View Project 🤝</a>
+<a href="https://drinkur-pradip9193.vercel.app/"> Click here to View Project 🤝</a>
