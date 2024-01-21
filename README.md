@@ -1,5 +1,8 @@
 # [Drinkur🥴:)](https://drinkur-pradip9193.vercel.app/)
 
+</hr>
+
+## Overview
 Welcome to DrinKur, a front-end project built with React.js, integrating the Cocktail DB API for fetching drink data. This project utilizes React-Query for efficient data loading, Styled-Components with SCSS for styling, and React-Toastify for user notifications. Additionally, it features actions for subscribing to a newsletter and includes a search filter for conveniently searching drinks by name.
 
 ## Project Structure
